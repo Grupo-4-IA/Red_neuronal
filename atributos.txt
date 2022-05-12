@@ -1,0 +1,14 @@
+Mapa de la ruta (Mapa general miraflores)
+Trafico de la ruta (0 - 1)
+Precio total (En caso de tener que tomar mas de un transporte)
+Disponibilidad (0 - 1)
+Tiempo de la ruta 
+Tiempo que tengo
+Dinero que quisiera gastar 
+casa-triangular
+
+monumento- estado mayor
+
+stadium-arcoiris
+
+hospital-villaroel
